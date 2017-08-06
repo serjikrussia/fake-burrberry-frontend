@@ -1,0 +1,197 @@
+.Product-Page-Mobile {
+  width: 320px;
+  margin:0px auto;
+}
+.logo {
+  width: 138px;
+  height: 10px;
+  object-fit: contain;
+   margin:16px 91px;
+}
+.container{
+    padding:0 16px;
+    display:flex;
+}
+.Long-Cotton-Gabardin {
+  font-family: Lora;
+  font-size: 14px;
+  text-align: left;
+  color: #111111;
+}
+.line-2{
+  border-bottom: solid 2px #c6c6c6;
+}
+.bitmap_2 {
+  object-fit: contain;
+}
+.bitmap_1 {
+  object-fit: contain;
+}
+.text-item{
+  font-family: Raleway;
+  font-size: 12px;
+  text-align: center;
+  color: #171717;
+  color: var(--black);
+}
+.price{
+    font-family: Raleway;
+    font-size: 18px;
+    text-align: left;
+    color: #111111;
+}
+.Colour-Honey {
+  width: 79px;
+  height: 14px;
+  font-family: Raleway;
+  font-size: 12px;
+  text-align: center;
+  color: #171717;
+  color: var(--black);
+}
+.Rectangle-1 {
+  width: 40px;
+  height: 40px;
+  border-radius: 100px;
+  background-color: #232122;
+  border: solid 1px #232122;
+  margin-right: 16px;
+}
+.Rectangle-2 {
+  width: 40px;
+  height: 40px;
+  border-radius: 100px;
+  background-color: #cfa880;
+  border: solid 1px #232122;
+}
+.contain{
+    display: flex;
+}
+.left-price{
+    margin-right:104.5px;
+}
+.marg-bott{
+    margin-bottom:16px;
+}
+.SELECT-A-SIZE {
+  font-family: Raleway;
+  font-size: 12px;
+  text-align: center;
+  color: #ffffff;
+}
+.FIND-IN-STORE {
+  font-family: Raleway;
+  font-size: 12px;
+  text-align: center;
+  color: #171717;
+  color: var(--black);
+}
+.padd-price{
+    padding:0 16px;
+    margin-bottom:32px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight: normal;
+    margin: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0;
+}
+.padd-cotton{
+    padding:24px;
+}
+.img-bottom{
+    margin-bottom: 24px;
+}
+.pad-item{
+    padding-top:4px;
+}
+.border-bot{
+    padding-bottom:32px;
+    border-bottom:solid 2px #c6c6c6;
+}
+.padd-size{
+    padding:0 16px;
+    flex-flow: column wrap;
+}
+button{
+    padding:0;
+    margin:0;
+}
+.select-size{
+    border-radius: 2px;
+    background-color: #171717;
+    border: solid 1px #171717;
+    padding:15px 97px;
+    white-space: nowrap;
+    margin:0;
+    
+}
+.find-store{
+    border-radius: 2px;
+    border: solid 1px #999999;
+    padding:15px 97px;
+    white-space: nowrap;
+    background: transparent;
+   
+}
+.need-size{
+    font-family: Raleway;
+    font-size: 12px;
+    text-align: center;
+    border:0;
+    background: transparent;
+}
+.size-bot{
+     padding-bottom:48px;
+}
+.text-font{
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+    color: #171717
+}
+.box-padd{
+    padding:30px 16px;
+}
+.Triangle{
+    margin-left:auto;
+}
+.box-marg{
+    margin-bottom: 45px;
+}
+.recomm{
+    border-bottom: solid 1px #171717;
+    padding-bottom:8px;
+}
+.marg-recomm{
+    margin-bottom:32px;
+}
+.font-wear{
+    font-family: Lora;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: left;
+    color: #111111;
+    color: var(--black-two);
+}
+.font-price{
+    font-family: Raleway;
+    font-size: 12px;
+    text-align: left;
+    color: #999999;
+    color: var(--warm-grey);
+}
+.size-pic{
+    width: 130px;
+    height: 174px;
+}
+.marg-aut{
+    display: flex;
+
+}
